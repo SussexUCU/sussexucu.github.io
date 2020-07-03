@@ -2,7 +2,6 @@
 Sussex UCU going github for governance
 
 
-# open-governance
 Welcome all - this is the starting place to make clear and accessible what we are doing to make governance at the University of Sussex more open for the community.
 
 These files show word searches of ~2400 Council files. Going back to 2006. So far we only have Council, SPRC, Audit & Risk, Audit (disbanded 2017) and Finance (disbanded 2017), and a few Senate papers. Word searches are not cap sensitive. We can search all file types including (amazingly) scanned .pdfs. This is a work in progress. If you want to get involved get in touch. 
