@@ -2,5 +2,5 @@
 
 Sussex UCU doing github for governance
 
-add link
+ <a href="https://direct.sussex.ac.uk/page.php?realm=searches&page=committees">link text</a>
 
