@@ -13,7 +13,7 @@ At the moment the word search is done on our computers. But whether you are a me
 <b>Where can I see search results?</b>
 You can see the results of each word search in spreadsheets in folders <a href="https://github.com/SussexUCU/open-governance">here</a>. Go into the folder of the relevant word, open the .ods (Open Office Spreadsheets) in Excel (or similar) to view list of the files. Some have links, but these currently have to be added by hand so are incomplete. 
 
-<b>I'm on UEG or Council: how can I use this facility?</b>
+<b>I'm on UEG or Council - can I use this facility?</b>
 We're happy to share our work. See <a href= "https://github.com/SussexUCU/developer"> developer repo</a> or contact Sussex UCU with a key word search and a reason and we'll run it.
 
 <b>We're a UCU branch - can we have one of these? </b>
