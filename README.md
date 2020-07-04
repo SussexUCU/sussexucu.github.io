@@ -10,11 +10,11 @@ So far we can search ~2400 Council papers, including Council, Strategic Performa
 
 <b>How do I do a word search?</b>
 
-At the moment the word search is done on our computers. But whether you are a member of campus unions or not, email Sussex UCU with a reason for your word search we'll consider running it. So far we have searched for 'covenant', 'racism', 'block j', 'saat', 'ucu', 'unite' and 'unison' and this is helping our supporting our work on the Unison, Unite and UCU Combined Joint Negotiating Committee, in our presentations to Council and our work on the Race Equality Charter committee.
+At the moment the word search is done on our computers. But whether you are a member of campus unions or not, email <a href= "https://ucusussex.wixsite.com/ucusussex">Sussex UCU</a> with a reason for your word search we'll consider running it. So far we have searched for 'covenant', 'racism', 'block j', 'saat', 'ucu', 'unite' and 'unison' and this is supporting our work alongside Unison and Unite on the Combined Joint Negotiating Committee; in our presentations to Council; our work on the Race Equality Charter committee and all the other brilliant working groups with union oversight or input. 
 
 <b>Where can I see search results?</b>
 
-You can see the results of each word search in spreadsheets in folders <a href="https://github.com/SussexUCU/open-governance">here</a>. Go into the folder of the relevant word, open the .ods (Open Office Spreadsheets) in Excel (or similar) to view list of the files. We have added some links, but have to do this by hand at the moment so this is not always complete.
+You can see the results of each word search in spreadsheets in folders <a href="https://github.com/SussexUCU/open-governance">here</a>. Go into the folder of the relevant word, open the .ods (Open Office Spreadsheets) in Excel (or similar) to view list of the files. We have added some links, but these currently have to be added by hand so are incomplete. 
 
 <b>I'm on UEG or Council: how can I use this facility?</b>
 
@@ -22,4 +22,4 @@ We're happy to share our work. See <a href= "https://github.com/SussexUCU/develo
 
 <b>We're a UCU branch - can we have one of these? </b>
 
-Absolutely - get it touch we'll be very happy to discuss the nuts and bolts.
+Absolutely - <a href= "https://ucusussex.wixsite.com/ucusussex">get it touch</a> we'll be very happy to discuss the nuts and bolts.
