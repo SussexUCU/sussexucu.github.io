@@ -1,7 +1,7 @@
 # Open Governance at Sussex Universiy 
 <i>Sussex UCU doing github for governance</i>
 
-<b>Welcome</b>. This is the starting place to make clear and accessible our ongoing work o make governance at the University of Sussex more open for the community. This is supporting our work alongside Unison and Unite on the Combined Joint Negotiating Committee; in our presentations to Council; our work on the Race Equality Charter committee and all the other campus working groups with union oversight or input. 
+<b>Welcome</b>. This is the starting place to make clear and accessible our ongoing work o make governance at the University of Sussex more open for the community. This is supporting our work alongside Unison and Unite on the Combined Joint Negotiating Committee; in presentations to Council; on the Race Equality Charter committee and all the other campus working groups with union oversight or input. 
 
 Published Council papers are availble to all staff and students via login through <a href="https://direct.sussex.ac.uk/page.php?realm=searches&page=committees">Sussex Direct</a>. There are thousands of papers but no search facility. <b>Until now!</b>
 
