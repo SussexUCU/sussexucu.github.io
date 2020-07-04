@@ -10,7 +10,7 @@ So far we can search ~2400 Council papers, including Council, Strategic Performa
 
 <b>How do I do a word search?</b>
 
-At the moment the word search is done on our computers. But whether you are a member of campus unions or not, email <a href= "https://ucusussex.wixsite.com/ucusussex">Sussex UCU</a> with a reason for your word search we'll consider running it. So far we have searched for 'covenant', 'racism', 'block j', 'saat', 'ucu', 'unite' and 'unison' and this is supporting our work alongside Unison and Unite on the Combined Joint Negotiating Committee; in our presentations to Council; our work on the Race Equality Charter committee and all the other brilliant working groups with union oversight or input. 
+At the moment the word search is done on our computers. But whether you are a member of campus unions or not, contact <a href= "https://ucusussex.wixsite.com/ucusussex">Sussex UCU</a> with a reason for your word search we'll consider running it. So far we have searched for 'covenant', 'racism', 'block j', 'saat', 'ucu', 'unite' and 'unison' and this is supporting our work alongside Unison and Unite on the Combined Joint Negotiating Committee; in our presentations to Council; our work on the Race Equality Charter committee and all the other brilliant working groups with union oversight or input. 
 
 <b>Where can I see search results?</b>
 
