@@ -3,7 +3,7 @@
 
 <b>Welcome</b>. This is the starting place to make clear and accessible what we are doing to make governance at the University of Sussex more open for the community. 
 
-Published Council papers are availble to all staff and students via login through <a href="https://direct.sussex.ac.uk/page.php?realm=searches&page=committees">Sussex Directt</a>. There are thousands of papers but with no search facility. <b>Until now!</b>
+Published Council papers are availble to all staff and students via login through <a href="https://direct.sussex.ac.uk/page.php?realm=searches&page=committees">Sussex Direct</a>. There are thousands of papers but no search facility. <b>Until now!</b>
 
 So far we can search ~2400 Council papers, including Council, Strategic Performance and Resource Commitee, Audit & Risk, Audit (disbanded 2017) and Finance (disbanded 2017), and some recent Senate papers. Word searches are not cap sensitive. We can search all file types (rtf, doc, docx, ppt, pptx etc) including (amazingly) scanned pdfs. This is a work in progress. If you want to get involved get in touch. 
 
