@@ -5,7 +5,7 @@
 
 Published Council papers are availble to all staff and students to read via login through <a href="https://direct.sussex.ac.uk/page.php?realm=searches&page=committees">Sussex Direct</a>. There are thousands of papers but no search facility. <b>Until now!</b>
 
-So far we can search ~2400 Council papers, including Council, Strategic Performance and Resource Commitee, Audit & Risk, Audit (disbanded 2017) and Finance (disbanded 2017), and some recent Senate papers. Word searches are not cap sensitive. We can search all file types (rtf, doc, docx, ppt, pptx etc) including (amazingly) scanned pdfs. 
+So far we can search ~2400 Council papers, including Strategic Performance and Resource, Audit & Risk, Audit (disbanded 2017) and Finance (disbanded 2017). We can search all file types (rtf, doc, docx, ppt, pptx etc) including (amazingly) scanned pdfs. 
 
 <b>How do I do a word search?</b>
 
