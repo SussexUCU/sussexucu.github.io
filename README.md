@@ -19,4 +19,4 @@ We're happy to share our work. See <a href= "https://github.com/SussexUCU/develo
 <b>We're a UCU branch - can we have one of these? </b>
 Absolutely - get in touch through <a href= "https://ucusussex.wixsite.com/ucusussex">Sussex UCU</a> we'll be very happy to discuss the nuts and bolts.
 
-<b>Big shout out</b> to the developers and the great work happening with local unions <a href="https://www.sussexstudent.com">USSU</a>, <a href="http://www.sussex.ac.uk/unite/">Unite</a>Unite and <a href="https://www.sussex.ac.uk/unison/">Unison</a>. 
+<b>Big shout out</b> to the developers and the great work happening with local unions <a href="https://www.sussexstudent.com">USSU</a>, <a href="http://www.sussex.ac.uk/unite/">Unite</a> and <a href="https://www.sussex.ac.uk/unison/">Unison</a>. 
