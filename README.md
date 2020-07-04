@@ -18,7 +18,7 @@ You can see the results of each word search in spreadsheets in folders <a href="
 
 <b>I'm on UEG or Council: how can I use this facility?</b>
 
-We're happy to share our work. See <a href= "https://github.com/SussexUCU/developerdeveloper"> developer repo</a> or contact Sussex UCU with a key word search and a reason and we'll run it.
+We're happy to share our work. See <a href= "https://github.com/SussexUCU/developer"> developer repo</a> or contact Sussex UCU with a key word search and a reason and we'll run it.
 
 <b>We're a UCU branch - can we have one of these? </b>
 
