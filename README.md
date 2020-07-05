@@ -13,7 +13,7 @@
 At the moment the word search is done on our computers. But whether you are a member of campus unions or not, contact <a href= "https://ucusussex.wixsite.com/ucusussex">Sussex UCU</a> with a reason for your word search we'll consider running it. 
 
 <b>Where can I see search results?</b>
-Search results are stored on University of Sussex box storage. We can give access to staff and students at Sussex. Get in touch with <a href= "https://ucusussex.wixsite.com/ucusussex">Sussex UCU</a>. 
+Search results are stored on University of Sussex box storage. We can give access to people with Sussex box accounts. Get in touch with <a href= "https://ucusussex.wixsite.com/ucusussex">Sussex UCU</a>. 
 
 <b>I'm on UEG or Council - can I use this facility?</b>
 Yes. We're happy to share our work. See <a href= "https://github.com/SussexUCU/developer"> developer repo</a> for technical info on how to set up searches. Or contact Sussex UCU with a key word search and a reason and we'll run it.
