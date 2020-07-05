@@ -7,7 +7,7 @@
 
 - So far we can search ~2400 Council papers, including Strategic Performance and Resource, Audit & Risk and Finance (committees that advise on strategy and budget) and all file types (rtf, doc, docx, ppt, pptx etc) including (amazingly) scanned pdfs. 
 
-<b>Q&A</b>
+<b>Q&As</b>
 
 <b>How do I do a word search?</b>
 At the moment the word search is done on our computers. But whether you are a member of campus unions or not, contact <a href= "https://ucusussex.wixsite.com/ucusussex">Sussex UCU</a> with a reason for your word search we'll consider running it. 
