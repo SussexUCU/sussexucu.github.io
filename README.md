@@ -16,7 +16,7 @@ At the moment the word search is done on our computers. But whether you are a me
 Search results are stored on University of Sussex box storage. We can give access to staff and students at Sussex. Get in touch with <a href= "https://ucusussex.wixsite.com/ucusussex">Sussex UCU</a>. 
 
 <b>I'm on UEG or Council - can I use this facility?</b>
-We're happy to share our work. See <a href= "https://github.com/SussexUCU/developer"> developer repo</a> for technical info on how to set up searches. Or contact Sussex UCU with a key word search and a reason and we'll run it.
+Of courses. We're happy to share our work. See <a href= "https://github.com/SussexUCU/developer"> developer repo</a> for technical info on how to set up searches. Or contact Sussex UCU with a key word search and a reason and we'll run it.
 
 <b>We're from another UCU branch - can we have one of these? </b>
 Absolutely. See <a href= "https://github.com/SussexUCU/developer"> developer repo</a> or get in touch through <a href= "https://ucusussex.wixsite.com/ucusussex">Sussex UCU</a> we'll be very happy to help.
