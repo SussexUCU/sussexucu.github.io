@@ -1,5 +1,5 @@
 # Open Governance at the University of Sussex
-<i>Sussex UCU do github for governance</i>
+<i>Sussex UCU go github for governance</i>
 
 <b>Welcome</b>. This is the starting place to make clear and accessible our ongoing work to make governance at the University of Sussex more open for the community. 
 
